@@ -1,0 +1,26 @@
+{
+    "name": "mongoose-fresh-db",
+    "version": "1.0.0",
+    "description": "Create a connection to a brand new MongoDB Database before each test.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/J12934/mongoose-fresh-db.git"
+    },
+    "keywords": ["mongoose", "test", "database"],
+    "author": "Jannik Hollenbach",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/J12934/mongoose-fresh-db/issues"
+    },
+    "homepage": "https://github.com/J12934/mongoose-fresh-db#readme",
+    "dependencies": {
+        "mongoose": "^5"
+    },
+    "devDependencies": {
+        "jest": "^22.2.2"
+    }
+}
